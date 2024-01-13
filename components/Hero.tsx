@@ -1,6 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
-import { urlFor } from '@/sanity';
-import { PageInfo } from '@/typings';
+import { urlFor } from 'sanity';
+import { PageInfo } from 'typings';
 import Link from 'next/link';
 import React from 'react';
 import { Cursor, useTypewriter } from "react-simple-typewriter";

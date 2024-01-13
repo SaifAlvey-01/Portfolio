@@ -3,7 +3,7 @@ import { MailOutlined } from '@ant-design/icons';
 import { SocialIcon } from "react-social-icons";
 import { motion } from "framer-motion";
 import Link from "next/link";
-import { Social } from "@/typings";
+import { Social } from "typings";
 
 type Props = {
   socials: Social[];
